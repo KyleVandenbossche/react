@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: gray 3px;
+}
+.ice-cream{
+    padding-left: 50px;
+    font-style: italic;
+    font-family: 'Caveat', cursive;
+    color: #0e3c7e ;
+    font-size: 70px;
+    border-top: black;
+}
+
+.welcome{
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.ad-component{
+    width: 200px;
+}

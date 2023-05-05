@@ -1,0 +1,13 @@
+.button:disabled {
+    background-color: blue;
+    color: white;
+}
+
+.lightTheme {
+    background-color: gray;
+    color: black;
+}
+
+.darkTheme {
+    background-color: white;
+}

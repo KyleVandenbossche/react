@@ -1,0 +1,22 @@
+.button:disabled {
+    background-color: blue;
+    color: white;
+}
+
+.lightTheme {
+    background-color: gray;
+    color: black;
+}
+
+.darkTheme {
+    background-color: white;
+}
+
+h2{
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    border-top: black;
+}
+
+
+

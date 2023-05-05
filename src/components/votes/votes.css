@@ -1,0 +1,21 @@
+.progress{
+    height: 50px;
+    border: 1px solid black;
+
+}
+.vanilla{
+    background-color: bisque;
+}
+
+.strawberry{
+background-color: red;
+}
+
+.chocolate{
+    background-color: chocolate;
+}
+
+.ad, .votes {
+    
+    justify-content: space-between;
+}

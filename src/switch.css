@@ -1,0 +1,11 @@
+/* Where all the Switch CSS goes  (this file is named per the component) */
+
+.Switch {
+    border: 2px solid black;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
